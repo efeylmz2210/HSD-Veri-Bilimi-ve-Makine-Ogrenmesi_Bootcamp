@@ -29,6 +29,6 @@ Bu proje, e-ticaret sektörüne ait **"e_ticaret_veri_seti.csv"** verisinin Pyth
 
 ##  Kullanılan Teknolojiler ve Kütüphaneler
 * **Python**
-* **Pandas & NumPy** (Veri manipülasyonu ve analizi)
-* **Matplotlib & Seaborn** (Veri görselleştirme)
-* **Google Colab** (Çalışma ortamı)
+* **Pandas & NumPy**
+* **Matplotlib & Seaborn**
+* **Google Colab**
