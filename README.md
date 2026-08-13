@@ -1,4 +1,4 @@
-#  E-Ticaret Veri Bilimi Analiz Projesi - README
+#  E-Ticaret Veri Bilimi Analiz Projesi
 
 Bu proje, e-ticaret sektörüne ait **"e_ticaret_veri_seti.csv"** verisinin Python ve Pandas kütüphaneleri kullanılarak incelenmesi, temizlenmesi, önişlemden geçirilmesi ve temel istatistiksel/görsel analizlerinin yapılmasını kapsamaktadır[cite: 4].
 
