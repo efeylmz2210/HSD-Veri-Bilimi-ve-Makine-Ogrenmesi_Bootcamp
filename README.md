@@ -1,5 +1,7 @@
 #  E-Ticaret Veri Bilimi Analiz Projesi
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11xXqwo4C3Axo5pqMBoLC_AWWeHd8Mz8U?usp=sharing)
+<a href="https://colab.research.google.com/drive/11xXqwo4C3Axo5pqMBoLC_AWWeHd8Mz8U?usp=sharing" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 Bu proje, e-ticaret sektörüne ait **"e_ticaret_veri_seti.csv"** verisinin Python ve Pandas kütüphaneleri kullanılarak incelenmesi, temizlenmesi, önişlemden geçirilmesi ve temel istatistiksel/görsel analizlerinin yapılmasını kapsamaktadır.
 
